@@ -1,7 +1,15 @@
 <div align="center">
-  <img src="assets/profile-banner.gif" width="100%" alt="Marwa's profile banner" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWoLvq1/giphy.gif" width="100%" alt="Marwa's profile banner" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=7C4DFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Marwa+%F0%9F%91%8B;Business+Information+Systems+Graduate;Flutter+Developer+%7C+UI+%7C+Problem+Solver" alt="Animated intro" />
+  <br />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=7C4DFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Marwa+%F0%9F%91%8B;Programmer+Girl;Building+Better+Code+%F0%9F%92%BB" alt="Animated intro" />
+
+  <br /><br />
+
+  <!-- Cartoon Avatar -->
+  <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop" width="200" alt="Marwa - Software Engineer" style="border-radius: 50%; border: 4px solid #7C4DFF;" />
+
 </div>
 
 <p align="center">
@@ -14,28 +22,25 @@
 
 ## 👩‍💻 About Me
 
-<p align="center">
-  <img src="assets/profile-avatar.svg" width="320" alt="Cartoon illustration of Marwa" />
-</p>
+I am **Marwa Gharib Alsayed Mohamed** — a Business Information Systems graduate and software engineer focused on building beautiful, responsive applications with clean code and thoughtful design.
 
-I am **Marwa Gharib Alsayed Mohamed** — a Business Information Systems graduate and software engineer focused on building useful digital experiences through clean design, reliable code, and thoughtful problem solving.
-
+### What I Do:
 - 📱 Building cross-platform apps with **Flutter** and **Dart**
-- 🔥 Working with **Firebase**, REST APIs, and modern UI patterns
-- 🎨 Combining engineering with **design thinking** and visual creativity
-- 🧠 Passionate about **clean architecture**, learning, and continuous growth
-- 🌍 Based in Egypt and open to meaningful opportunities
+- 🔥 Working with **Firebase**, REST APIs, and modern state management
+- 🎨 Combining engineering with **UI/UX design** and visual creativity
+- 🧠 Passionate about **clean architecture** and continuous learning
+- 🌍 Based in Egypt, open to meaningful opportunities
 
 > 🐾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🐾
 
-## 🎯 My Goals
+## 🎯 My Dream Plan: Do & Repeat
 
-- [ ] Professional Flutter Developer
-- [ ] Node.js + Express Mastery
-- [ ] AI & Machine Learning
-- [ ] Build Great Products with Real Impact
-- [ ] Financial Freedom
-- [ ] Create Value for People and Communities
+- [ ] ✨ Professional Flutter Developer
+- [ ] 🟢 Master Node.js + Express Backend
+- [ ] 🤖 AI & Machine Learning Expertise
+- [ ] 🎨 Build Amazing CG & UI/UX
+- [ ] 💰 Achieve Financial Freedom
+- [ ] ❤️ Create Real Impact
 
 > 🐱━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🐱
 
@@ -45,15 +50,24 @@ I am **Marwa Gharib Alsayed Mohamed** — a Business Information Systems graduat
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,html,css,react,nextjs,bootstrap,cpp,git,github,figma,photoshop" alt="Tech stack" />
 </p>
 
+<div align="center">
+  
+  **Languages:** Dart · JavaScript · C++ · HTML · CSS  
+  **Frameworks:** Flutter · React · Next.js · Express  
+  **Tools:** Firebase · Git · GitHub · Figma · Photoshop  
+  **Design:** UI/UX · Responsive Design · Visual Design
+
+</div>
+
 > 🐾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🐾
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
+| 🎯 Project | 📝 Description | 💻 Stack |
 |---|---|---|
-| [CG.OI — Career Support Platform](https://github.com/marwa906/Graduation-project-application) | Career support platform for CV guidance, interview prep, and career matching. | Flutter · Node.js · Firebase |
-| [Flutter Training Projects](https://github.com/marwa906/nti) | Learning-focused mobile projects during practical training. | Flutter · Dart · Firebase |
-| [Stylish](https://github.com/marwa906/stylish) | Front-end project focused on responsive styling and polished UI. | HTML · CSS · JavaScript |
+| [CG.OI — Career Support Platform](https://github.com/marwa906/Graduation-project-application) | Career guidance, interview prep & career matching platform | Flutter · Node.js · Firebase |
+| [Flutter Training Projects](https://github.com/marwa906/nti) | Mobile app development learning projects | Flutter · Dart · Firebase |
+| [Stylish](https://github.com/marwa906/stylish) | Responsive UI/UX focused front-end project | HTML · CSS · JavaScript |
 
 > 🐱━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🐱
 
@@ -69,29 +83,49 @@ I am **Marwa Gharib Alsayed Mohamed** — a Business Information Systems graduat
 </div>
 
 <p align="center">
-  <a href="https://github.com/marwa906?tab=overview">Explore my contribution activity on GitHub ↗</a>
+  🐱 <a href="https://github.com/marwa906?tab=overview">Explore my contribution activity on GitHub ↗</a> 🐱
 </p>
 
 > 🐾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🐾
 
 ## 💼 Experience & Education
 
+**🏢 Professional Experience:**
 - **Website & Mobile Application Lead** — New Obour City Authority
 - **COO & HR Manager** — Velux Events & Conference Organizing Company
 - **Freelance Graphic Designer** — 2021–Present
+
+**🎓 Education:**
 - **B.I.S. in Business Information Systems** — Obour Institute, 2026
 - **Mobile Application Development Training** — National Telecommunication Institute (NTI)
 
 > 🐱━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🐱
 
-## 🌟 My Coding Philosophy
+## 💭 My Coding Philosophy
 
-> “Great products happen when thoughtful design meets purposeful technology.”
+> **"Good Things Take Time"** ❤️
+>
+> *Build Code. Create Better. Achieve Freedom.*
 
-I care about readable code, reusable components, smooth experiences, and solutions that make a real difference.
+I believe in:
+- **Clean, readable code** that others can learn from
+- **Reusable components** that scale
+- **User-first design** that solves real problems
+- **Continuous learning** and growth mindset
+
+> 🐾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🐾
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=110&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C4DFF,100:00C9A7&height=100&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
+
   <br />
-  🐈‍⬛ 🐈 🐈‍⬛ &nbsp; <b>More Code, Less Overthinking</b> &nbsp; 🐈‍⬛ 🐈 🐈‍⬛
+  
+  🐈‍⬛ 🐈 🐈‍⬛ &nbsp; **More Code, Less Overthinking** &nbsp; 🐈‍⬛ 🐈 🐈‍⬛
+
+  <br /><br />
+
+  <sub>
+    Made with ❤️ by <strong>Marwa</strong> | 
+    <a href="https://github.com/marwa906">Visit My GitHub →</a>
+  </sub>
 </div>
