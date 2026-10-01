@@ -1,19 +1,22 @@
-<!-- =========================
-     MARWA - GITHUB PROFILE
-========================= -->
+<!-- =========================================================
+     MARWA GHARIB ALSAYED MOHAMED
+     GitHub Profile README
+========================================================= -->
+
+<!-- ========================= HERO ========================= -->
 
 <div align="center">
 
-  <!-- 🎀 Animated Cartoon Hero -->
+  <!-- Main Cartoon Animation -->
   <img
-  src="./programmer_cartoon.gif"
-  width="900"
-  alt="Marwa coding at her workspace"
-/>
+    src="./assets/programmer_cartoon_under_3_75MB(1).gif"
+    width="900"
+    alt="Marwa coding at her workspace"
+  />
 
   <br><br>
 
-  <!-- ✨ Animated Introduction -->
+  <!-- Animated Typing -->
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=800020&center=true&vCenter=true&width=750&lines=Building+Better+Code;Flutter+Developer;Mobile+App+Engineer;UI%2FUX+Enthusiast;Always+Learning+%26+Creating"
     alt="Animated introduction"
@@ -31,9 +34,7 @@
 
 <br>
 
-<!-- =========================
-     SOCIAL LINKS
-========================= -->
+<!-- ========================= SOCIAL ========================= -->
 
 <div align="center">
 
@@ -62,23 +63,21 @@
 
 <br>
 
-<!-- Burgundy divider -->
+<!-- ========================= DIVIDER ========================= -->
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=3"
-  width="85%"
-  alt="divider"
-/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=3"
+    width="85%"
+    alt="Burgundy divider"
+  />
 
 </div>
 
 <br>
 
-<!-- =========================
-     ABOUT ME
-========================= -->
+<!-- ========================= ABOUT ME ========================= -->
 
 <h2 align="center">👩🏻‍💻 About Me</h2>
 
@@ -94,41 +93,48 @@
   responsive applications with clean code and thoughtful design.
 </p>
 
+<br>
+
+<div align="center">
+
 ### ✦ What I Do
 
-- 📱 Build cross-platform mobile applications using **Flutter & Dart**
-- 🔥 Work with **Firebase, REST APIs & backend technologies**
-- 🎨 Combine software engineering with **UI/UX design**
-- 🧩 Build reusable and maintainable components
-- 🧠 Follow clean architecture and organized development practices
-- 🌱 Continuously learn new technologies and improve my skills
+📱 **Cross-Platform Development**  
+Flutter & Dart
+
+🔥 **Backend & APIs**  
+Firebase · REST APIs · Node.js
+
+🎨 **Creative Development**  
+UI/UX · Responsive Design · Visual Design
+
+🧠 **Development Philosophy**  
+Clean Architecture · Reusable Components · Continuous Learning
+
+</div>
 
 <br>
 
-<!-- =========================
-     DREAM PLAN
-========================= -->
+<!-- ========================= DREAM PLAN ========================= -->
 
 <h2 align="center">🎯 My Dream Plan</h2>
 
 <div align="center">
 
-| Status | Goal |
-|:---:|---|
+| | Goal |
+|:---:|:---|
 | ☐ | ✨ Professional Flutter Developer |
 | ☐ | 🟤 Master Node.js & Express Backend |
-| ☐ | 🤖 AI & Machine Learning |
-| ☐ | 🎨 Amazing UI/UX & Creative Experiences |
-| ☐ | 💰 Financial Freedom |
+| ☐ | 🤖 Explore AI & Machine Learning |
+| ☐ | 🎨 Build Amazing UI/UX Experiences |
+| ☐ | 💰 Achieve Financial Freedom |
 | ☐ | ❤️ Create Real Impact |
 
 </div>
 
 <br>
 
-<!-- =========================
-     TECH STACK
-========================= -->
+<!-- ========================= TECH STACK ========================= -->
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -171,23 +177,21 @@
 
 <br>
 
-<!-- =========================
-     ANIMATED BURGUNDY BANNER
-========================= -->
+<!-- ========================= ANIMATED BANNER ========================= -->
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,50:A65D5D,100:F5E6D3&height=90&section=header"
-  width="100%"
-  alt="Burgundy animated banner"
-/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,50:A65D5D,100:F5E6D3&height=90&section=header&animation=twinkling"
+    width="100%"
+    alt="Animated Burgundy banner"
+  />
 
 </div>
 
-<!-- =========================
-     FEATURED PROJECTS
-========================= -->
+<br>
+
+<!-- ========================= FEATURED PROJECTS ========================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -203,9 +207,7 @@
 
 <br>
 
-<!-- =========================
-     GITHUB STATS
-========================= -->
+<!-- ========================= GITHUB STATS ========================= -->
 
 <h2 align="center">📊 GitHub Dashboard</h2>
 
@@ -214,7 +216,7 @@
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=marwa906&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=800020&icon_color=800020&text_color=5C4033&bg_color=F5E6D3"
-    alt="GitHub Stats"
+    alt="Marwa GitHub Stats"
   />
 
   <img
@@ -243,7 +245,7 @@
   <a href="https://github.com/marwa906?tab=overview">
     <img
       src="https://img.shields.io/badge/Explore_My_GitHub-800020?style=for-the-badge&logo=github&logoColor=F5E6D3"
-      alt="Explore GitHub"
+      alt="Explore My GitHub"
     />
   </a>
 
@@ -251,9 +253,7 @@
 
 <br>
 
-<!-- =========================
-     EXPERIENCE
-========================= -->
+<!-- ========================= EXPERIENCE ========================= -->
 
 <h2 align="center">💼 Experience & Education</h2>
 
@@ -270,15 +270,33 @@
 
 <br>
 
-<!-- =========================
-     CODING PHILOSOPHY
-========================= -->
+<!-- ========================= CURRENT FOCUS ========================= -->
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<div align="center">
+
+`Node.js` &nbsp; • &nbsp;
+`Express` &nbsp; • &nbsp;
+`Backend Development`
+
+<br><br>
+
+`AI & ML` &nbsp; • &nbsp;
+`Advanced Flutter` &nbsp; • &nbsp;
+`System Design`
+
+</div>
+
+<br>
+
+<!-- ========================= CODING PHILOSOPHY ========================= -->
 
 <h2 align="center">💭 My Coding Philosophy</h2>
 
 <div align="center">
 
-> **"Good Things Take Time."** 🤎
+> 🤎 **"Good Things Take Time."**
 
 <br>
 
@@ -288,69 +306,66 @@
 
 <br>
 
-I believe in:
+<div align="center">
 
-- 🧩 **Clean & readable code**
-- ♻️ **Reusable components**
-- 🎨 **User-first design**
-- 📚 **Continuous learning**
-- 💡 **Creative problem solving**
+🧩 **Clean Code**  
+♻️ **Reusable Components**  
+🎨 **User-First Design**  
+📚 **Continuous Learning**  
+💡 **Creative Problem Solving**
 
-<br>
-
-<!-- =========================
-     CURRENTLY LEARNING
-========================= -->
-
-<h2 align="center">🌱 Currently Learning</h2>
-
-<p align="center">
-
-`Node.js` &nbsp; `Express` &nbsp; `Backend Development`
+</div>
 
 <br>
 
-`AI & ML` &nbsp; `Advanced Flutter` &nbsp; `System Design`
-
-</p>
-
-<br>
-
-<!-- =========================
-     FINAL FOOTER
-========================= -->
+<!-- ========================= FINAL MESSAGE ========================= -->
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,50:A65D5D,100:F5E6D3&height=130&section=footer&animation=twinkling"
-  width="100%"
-  alt="Animated Burgundy Footer"
-/>
-
-<br>
-
-<h3>
-  🐈‍⬛ More Code · Less Overthinking 🐈‍⬛
-</h3>
-
-<p>
-  <em>Building today what I dream about tomorrow.</em>
-</p>
-
-<br>
-
-<sub>
-  Made with ❤️ & ☕ by <strong>Marwa</strong>
-</sub>
-
-<br><br>
-
-<a href="https://github.com/marwa906">
   <img
-    src="https://img.shields.io/badge/Visit_My_GitHub-800020?style=for-the-badge&logo=github&logoColor=F5E6D3"
-    alt="Visit My GitHub"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1200&color=800020&center=true&vCenter=true&width=650&lines=Keep+Learning.;Keep+Building.;Keep+Creating.;Good+Things+Take+Time."
+    alt="Final typing animation"
   />
-</a>
+
+</div>
+
+<br>
+
+<!-- ========================= FOOTER ========================= -->
+
+<div align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,50:A65D5D,100:F5E6D3&height=140&section=footer&animation=twinkling"
+    width="100%"
+    alt="Animated Burgundy footer"
+  />
+
+  <br>
+
+  <h3>
+    🐈‍⬛ More Code · Less Overthinking 🐈‍⬛
+  </h3>
+
+  <p>
+    <em>
+      Building today what I dream about tomorrow.
+    </em>
+  </p>
+
+  <br>
+
+  <sub>
+    Made with ❤️ & ☕ by <strong>Marwa</strong>
+  </sub>
+
+  <br><br>
+
+  <a href="https://github.com/marwa906">
+    <img
+      src="https://img.shields.io/badge/Visit_My_GitHub-800020?style=for-the-badge&logo=github&logoColor=F5E6D3"
+      alt="Visit My GitHub"
+    />
+  </a>
 
 </div>
