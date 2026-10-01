@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/marwa906/marwa906/blob/main/assets/marwa-workspace.png?raw=true" width="100%" alt="Marwa coding at her workspace" />
+  <img src="<img width="900" height="506" alt="programmer_cartoon_under_3_75MB(1)" src="https://github.com/user-attachments/assets/d6139d3a-9d30-4072-a2cc-ced157757e40" />
+" width="100%" alt="Marwa coding at her workspace" />
 
   <br /><br />
   
