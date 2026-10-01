@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="assets/marwa-workspace.png" width="100%" alt="Marwa coding at her workspace" />
-
-  <br />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=7C4DFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Marwa+%F0%9F%91%8B;Programmer+Girl;Building+Better+Code+%F0%9F%92%BB" alt="Animated intro" />
+  <img src="https://github.com/marwa906/marwa906/blob/main/assets/marwa-workspace.png?raw=true" width="100%" alt="Marwa coding at her workspace" />
 
   <br /><br />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=800&color=7C4DFF&center=true&vCenter=true&width=700&lines=Building+Better+Code" alt="Animated title" />
 
 </div>
 
@@ -18,10 +16,6 @@
 > 🐱━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🐱
 
 ## 👩‍💻 About Me
-
-<p align="center">
-  <img src="assets/marwa-workspace.png" width="360" alt="Marwa at her workstation" style="border-radius: 22px;" />
-</p>
 
 I am **Marwa Gharib Alsayed Mohamed** — a Business Information Systems graduate and software engineer focused on building beautiful, responsive applications with clean code and thoughtful design.
 
