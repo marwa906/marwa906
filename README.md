@@ -1,10 +1,5 @@
-<!-- Animated profile header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=Marwa%20Gharib&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Animated profile header" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=750&lines=Business+Information+Systems+Graduate;Software+Engineer;Flutter+%7C+Firebase+%7C+REST+APIs;Building+clean+and+useful+digital+experiences" alt="Animated introduction" />
+  <img src="assets/profile-banner.gif" width="100%" alt="Marwa — Software Engineer building useful digital experiences" />
 </div>
 
 <p align="center">
@@ -13,11 +8,11 @@
   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marwa906&style=for-the-badge&color=6C63FF" alt="Profile views" />
-</p>
-
 ## 👩‍💻 About Me
+
+<p align="center">
+  <img src="assets/profile-avatar.svg" width="300" alt="Cartoon illustration of Marwa, wearing a hijab and coding at her desk" />
+</p>
 
 I am **Marwa Gharib Alsayed Mohamed**, a Business Information Systems graduate and Software Engineer focused on building responsive mobile and web applications.
 
@@ -52,9 +47,9 @@ I am **Marwa Gharib Alsayed Mohamed**, a Business Information Systems graduate a
   <img src="https://streak-stats.demolab.com?user=marwa906&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marwa906&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
-</div>
+<p align="center">
+  <a href="https://github.com/marwa906?tab=overview">Explore my contribution activity on GitHub ↗</a>
+</p>
 
 ## 💼 Experience & Education
 
