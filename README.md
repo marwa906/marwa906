@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  <!-- Main Cartoon Animation -->
+  <!-- Main Cartoon -->
   <img
     src="./assets/programmer_cartoon_under_3_75MB(1).gif"
     width="900"
@@ -16,76 +16,74 @@
 
   <br><br>
 
-  <!-- Animated Typing -->
+  <!-- ================= NAME ================= -->
+
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=800020&center=true&vCenter=true&width=750&lines=Building+Better+Code;Flutter+Developer;Mobile+App+Engineer;UI%2FUX+Enthusiast;Always+Learning+%26+Creating"
-    alt="Animated introduction"
+    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=400&size=42&duration=1&pause=100000&color=800020&center=true&vCenter=true&width=800&lines=Marwa+Gharib+Alsayed+Mohamed"
+    alt="Marwa Gharib Alsayed Mohamed"
   />
 
   <br>
 
-  <p>
-    <strong>
-      Flutter Developer • Mobile App Engineer • UI/UX Enthusiast
-    </strong>
-  </p>
+  <!-- Small Beige Accent -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=A65D5D&center=true&vCenter=true&width=650&lines=Flutter+Developer+%7C+Mobile+App+Engineer;UI%2FUX+Enthusiast+%7C+Creative+Developer;Building+Better+Code+Every+Day"
+    alt="Professional title"
+  />
 
-</div>
+  <br><br>
 
-<br>
+  <!-- Burgundy Line -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=4"
+    width="75%"
+    alt="Burgundy line"
+  />
 
-<!-- ========================= SOCIAL ========================= -->
+  <br><br>
 
-<div align="center">
+  <!-- Social Buttons -->
 
   <a href="https://github.com/marwa906">
     <img
-      src="https://img.shields.io/badge/GitHub-marwa906-800020?style=for-the-badge&logo=github&logoColor=F5E6D3"
+      src="https://img.shields.io/badge/GitHub-800020?style=for-the-badge&logo=github&logoColor=F5E6D3"
       alt="GitHub"
     />
   </a>
 
   <a href="mailto:marwansrallh6@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-Contact%20Me-800020?style=for-the-badge&logo=gmail&logoColor=F5E6D3"
+      src="https://img.shields.io/badge/Email-800020?style=for-the-badge&logo=gmail&logoColor=F5E6D3"
       alt="Email"
     />
   </a>
 
   <a href="https://www.linkedin.com">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-800020?style=for-the-badge&logo=linkedin&logoColor=F5E6D3"
+      src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=F5E6D3"
       alt="LinkedIn"
     />
   </a>
 
 </div>
 
-<br>
+<br><br>
 
-<!-- ========================= DIVIDER ========================= -->
-
-<div align="center">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=3"
-    width="85%"
-    alt="Burgundy divider"
-  />
-
-</div>
-
-<br>
-
-<!-- ========================= ABOUT ME ========================= -->
+<!-- =========================================================
+     ABOUT ME
+========================================================= -->
 
 <h2 align="center">👩🏻‍💻 About Me</h2>
+
+<br>
 
 <p align="center">
   <em>
     Turning ideas into beautiful, functional and meaningful digital experiences.
   </em>
 </p>
+
+<br>
 
 <p>
   I am <strong>Marwa Gharib Alsayed Mohamed</strong> — a Business Information
@@ -97,27 +95,25 @@
 
 <div align="center">
 
-### ✦ What I Do
-
-📱 **Cross-Platform Development**  
-Flutter & Dart
-
-🔥 **Backend & APIs**  
-Firebase · REST APIs · Node.js
-
-🎨 **Creative Development**  
-UI/UX · Responsive Design · Visual Design
-
-🧠 **Development Philosophy**  
-Clean Architecture · Reusable Components · Continuous Learning
+| ✦ | What I Do |
+|:---:|:---|
+| 📱 | **Cross-Platform Development** — Flutter & Dart |
+| 🔥 | **Backend & APIs** — Firebase · REST APIs · Node.js |
+| 🎨 | **Creative Development** — UI/UX · Responsive Design |
+| 🧩 | **Architecture** — Clean Code · Reusable Components |
+| 🌱 | **Growth** — Continuous Learning & Development |
 
 </div>
 
-<br>
+<br><br>
 
-<!-- ========================= DREAM PLAN ========================= -->
+<!-- =========================================================
+     DREAM PLAN
+========================================================= -->
 
 <h2 align="center">🎯 My Dream Plan</h2>
+
+<br>
 
 <div align="center">
 
@@ -132,11 +128,31 @@ Clean Architecture · Reusable Components · Continuous Learning
 
 </div>
 
-<br>
+<br><br>
 
-<!-- ========================= TECH STACK ========================= -->
+<!-- =========================================================
+     BEIGE ACCENT
+========================================================= -->
+
+<div align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=F5E6D3&height=8"
+    width="65%"
+    alt="Beige accent"
+  />
+
+</div>
+
+<br><br>
+
+<!-- =========================================================
+     TECH STACK
+========================================================= -->
 
 <h2 align="center">🛠️ Tech Stack</h2>
+
+<br>
 
 <p align="center">
 
@@ -175,25 +191,31 @@ Clean Architecture · Reusable Components · Continuous Learning
 
 </div>
 
-<br>
+<br><br>
 
-<!-- ========================= ANIMATED BANNER ========================= -->
+<!-- =========================================================
+     BURGUNDY WAVE
+========================================================= -->
 
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,50:A65D5D,100:F5E6D3&height=90&section=header&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,65:800020,100:F5E6D3&height=90&section=header"
     width="100%"
-    alt="Animated Burgundy banner"
+    alt="Burgundy wave"
   />
 
 </div>
 
 <br>
 
-<!-- ========================= FEATURED PROJECTS ========================= -->
+<!-- =========================================================
+     PROJECTS
+========================================================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
+
+<br>
 
 <div align="center">
 
@@ -205,18 +227,22 @@ Clean Architecture · Reusable Components · Continuous Learning
 
 </div>
 
-<br>
+<br><br>
 
-<!-- ========================= GITHUB STATS ========================= -->
+<!-- =========================================================
+     GITHUB STATS
+========================================================= -->
 
 <h2 align="center">📊 GitHub Dashboard</h2>
+
+<br>
 
 <div align="center">
 
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=marwa906&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=800020&icon_color=800020&text_color=5C4033&bg_color=F5E6D3"
-    alt="Marwa GitHub Stats"
+    alt="GitHub Stats"
   />
 
   <img
@@ -227,18 +253,18 @@ Clean Architecture · Reusable Components · Continuous Learning
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
   <img
-    src="https://streak-stats.demolab.com?user=marwa906&hide_border=true&background=F5E6D3&ring=800020&fire=A65D5D&currStreakLabel=800020&sideLabels=800020&currStreakNum=5C4033&sideNums=5C4033&dates=8B7355"
+    src="https://streak-stats.demolab.com?user=marwa906&hide_border=true&background=F5E6D3&ring=800020&fire=800020&currStreakLabel=800020&sideLabels=800020&currStreakNum=5C4033&sideNums=5C4033&dates=8B7355"
     alt="GitHub Streak"
   />
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -251,106 +277,148 @@ Clean Architecture · Reusable Components · Continuous Learning
 
 </div>
 
-<br>
+<br><br>
 
-<!-- ========================= EXPERIENCE ========================= -->
+<!-- =========================================================
+     EXPERIENCE
+========================================================= -->
 
 <h2 align="center">💼 Experience & Education</h2>
 
+<br>
+
 ### 🏢 Professional Experience
 
+<br>
+
 - **Website & Mobile Application Lead** — New Obour City Authority
+
+<br>
+
 - **COO & HR Manager** — Velux Events & Conference Organizing Company
+
+<br>
+
 - **Freelance Graphic Designer** — 2021–Present
+
+<br>
 
 ### 🎓 Education
 
+<br>
+
 - **B.I.S. in Business Information Systems** — Obour Institute, 2026
-- **Mobile Application Development Training** — National Telecommunication Institute (NTI)
 
 <br>
 
-<!-- ========================= CURRENT FOCUS ========================= -->
-
-<h2 align="center">🌱 Currently Learning</h2>
-
-<div align="center">
-
-`Node.js` &nbsp; • &nbsp;
-`Express` &nbsp; • &nbsp;
-`Backend Development`
+- **Mobile Application Development Training** — National Telecommunication Institute (NTI)
 
 <br><br>
 
-`AI & ML` &nbsp; • &nbsp;
-`Advanced Flutter` &nbsp; • &nbsp;
-`System Design`
+<!-- =========================================================
+     CURRENTLY LEARNING
+========================================================= -->
 
-</div>
+<h2 align="center">🌱 Currently Learning</h2>
 
 <br>
 
-<!-- ========================= CODING PHILOSOPHY ========================= -->
+<div align="center">
+
+### `Node.js` · `Express` · `Backend Development`
+
+<br>
+
+### `AI & ML` · `Advanced Flutter` · `System Design`
+
+</div>
+
+<br><br>
+
+<!-- =========================================================
+     CODING PHILOSOPHY
+========================================================= -->
 
 <h2 align="center">💭 My Coding Philosophy</h2>
 
-<div align="center">
-
-> 🤎 **"Good Things Take Time."**
-
 <br>
 
-**Build Code. Create Better. Achieve Freedom.**
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&duration=3500&pause=1200&color=800020&center=true&vCenter=true&width=650&lines=Good+Things+Take+Time."
+  alt="Good Things Take Time"
+/>
+
+<br><br>
+
+<strong>
+Build Code. Create Better. Achieve Freedom.
+</strong>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
-🧩 **Clean Code**  
-♻️ **Reusable Components**  
-🎨 **User-First Design**  
-📚 **Continuous Learning**  
+🧩 **Clean Code**
+
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+
+♻️ **Reusable Components**
+
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+
+🎨 **User-First Design**
+
+<br><br>
+
+📚 **Continuous Learning**
+
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+
 💡 **Creative Problem Solving**
 
 </div>
 
-<br>
+<br><br>
 
-<!-- ========================= FINAL MESSAGE ========================= -->
+<!-- =========================================================
+     FINAL ANIMATION
+========================================================= -->
 
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1200&color=800020&center=true&vCenter=true&width=650&lines=Keep+Learning.;Keep+Building.;Keep+Creating.;Good+Things+Take+Time."
-    alt="Final typing animation"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=800020&center=true&vCenter=true&width=650&lines=Keep+Learning.;Keep+Building.;Keep+Creating.;One+Line+of+Code+at+a+Time."
+    alt="Final animation"
   />
 
 </div>
 
-<br>
+<br><br>
 
-<!-- ========================= FOOTER ========================= -->
+<!-- =========================================================
+     FOOTER
+========================================================= -->
 
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,50:A65D5D,100:F5E6D3&height=140&section=footer&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,70:800020,100:F5E6D3&height=150&section=footer&animation=twinkling"
     width="100%"
-    alt="Animated Burgundy footer"
+    alt="Burgundy animated footer"
   />
 
   <br>
 
-  <h3>
-    🐈‍⬛ More Code · Less Overthinking 🐈‍⬛
-  </h3>
+  <h2>🐈‍⬛ More Code · Less Overthinking 🐈‍⬛</h2>
+
+  <br>
 
   <p>
-    <em>
-      Building today what I dream about tomorrow.
-    </em>
+    <em>Building today what I dream about tomorrow.</em>
   </p>
 
   <br>
