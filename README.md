@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="<img width="900" height="506" alt="programmer_cartoon_under_3_75MB(1)" src="https://github.com/user-attachments/assets/d6139d3a-9d30-4072-a2cc-ced157757e40" />
-" width="100%" alt="Marwa coding at her workspace" />
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=800&color=7C4DFF&center=true&vCenter=true&width=700&lines=Building+Better+Code"
+    alt="Animated title"
+  />
+</div>
 
   <br /><br />
   
