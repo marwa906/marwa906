@@ -7,8 +7,7 @@
 
   <br /><br />
 
-  <!-- Cartoon Avatar -->
-  <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop" width="200" alt="Marwa - Software Engineer" style="border-radius: 50%; border: 4px solid #7C4DFF;" />
+  <img src="assets/cozy-coding-desk.png" width="600" alt="Marwa at her coding desk" />
 
 </div>
 
