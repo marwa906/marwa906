@@ -16,8 +16,7 @@
 
   <br><br>
 
-  <!-- ================= NAME ================= -->
-
+  <!-- Name -->
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=400&size=42&duration=1&pause=100000&color=800020&center=true&vCenter=true&width=800&lines=Marwa+Gharib+Alsayed+Mohamed"
     alt="Marwa Gharib Alsayed Mohamed"
@@ -25,9 +24,9 @@
 
   <br>
 
-  <!-- Small Beige Accent -->
+  <!-- Animated Professional Title -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=A65D5D&center=true&vCenter=true&width=650&lines=Flutter+Developer+%7C+Mobile+App+Engineer;UI%2FUX+Enthusiast+%7C+Creative+Developer;Building+Better+Code+Every+Day"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=A65D5D&center=true&vCenter=true&width=700&lines=Flutter+Developer+%7C+Mobile+App+Engineer;UI%2FUX+Enthusiast+%7C+Creative+Developer;Building+Better+Code+Every+Day"
     alt="Professional title"
   />
 
@@ -37,7 +36,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=4"
     width="75%"
-    alt="Burgundy line"
+    alt="Burgundy divider"
   />
 
   <br><br>
@@ -130,9 +129,7 @@
 
 <br><br>
 
-<!-- =========================================================
-     BEIGE ACCENT
-========================================================= -->
+<!-- Beige Accent -->
 
 <div align="center">
 
@@ -154,40 +151,124 @@
 
 <br>
 
-<p align="center">
-
-  <img
-    src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,html,css,react,nextjs,nodejs,express,bootstrap,cpp,git,github,figma,photoshop"
-    alt="Tech Stack"
-  />
-
-</p>
-
-<br>
+<!-- Tech Icons -->
 
 <div align="center">
 
-<strong>Languages</strong>
+  <img
+    src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,html,css,react,nextjs,nodejs,express,bootstrap,cpp,git,github,figma,photoshop&perline=8"
+    alt="Tech Stack"
+  />
 
-`Dart` · `JavaScript` · `C++` · `HTML` · `CSS`
-
-<br><br>
-
-<strong>Frameworks & Backend</strong>
-
-`Flutter` · `React` · `Next.js` · `Node.js` · `Express`
+</div>
 
 <br><br>
 
-<strong>Tools</strong>
+<!-- LANGUAGES -->
 
-`Firebase` · `Git` · `GitHub` · `Figma` · `Photoshop`
+<div align="center">
+
+  <img
+    src="https://img.shields.io/badge/LANGUAGES-800020?style=for-the-badge"
+    alt="Languages"
+  />
+
+  <br><br>
+
+  <code>Dart</code>
+  •
+  <code>JavaScript</code>
+  •
+  <code>C++</code>
+  •
+  <code>HTML</code>
+  •
+  <code>CSS</code>
+
+</div>
 
 <br><br>
 
-<strong>Design</strong>
+<!-- FRAMEWORKS -->
 
-`UI/UX` · `Responsive Design` · `Visual Design`
+<div align="center">
+
+  <img
+    src="https://img.shields.io/badge/FRAMEWORKS_%26_BACKEND-800020?style=for-the-badge"
+    alt="Frameworks and Backend"
+  />
+
+  <br><br>
+
+  <code>Flutter</code>
+  •
+  <code>React</code>
+  •
+  <code>Next.js</code>
+  •
+  <code>Node.js</code>
+  •
+  <code>Express</code>
+
+</div>
+
+<br><br>
+
+<!-- TOOLS -->
+
+<div align="center">
+
+  <img
+    src="https://img.shields.io/badge/TOOLS-A65D5D?style=for-the-badge"
+    alt="Tools"
+  />
+
+  <br><br>
+
+  <code>Firebase</code>
+  •
+  <code>Git</code>
+  •
+  <code>GitHub</code>
+  •
+  <code>Figma</code>
+  •
+  <code>Photoshop</code>
+
+</div>
+
+<br><br>
+
+<!-- DESIGN -->
+
+<div align="center">
+
+  <img
+    src="https://img.shields.io/badge/DESIGN-F5E6D3?style=for-the-badge&labelColor=800020&color=F5E6D3"
+    alt="Design"
+  />
+
+  <br><br>
+
+  <code>UI/UX</code>
+  •
+  <code>Responsive Design</code>
+  •
+  <code>Visual Design</code>
+
+</div>
+
+<br><br>
+
+<!-- Burgundy Divider -->
+
+<div align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=800020&height=3"
+    width="70%"
+    alt="Burgundy divider"
+  />
 
 </div>
 
@@ -210,7 +291,7 @@
 <br>
 
 <!-- =========================================================
-     PROJECTS
+     FEATURED PROJECTS
 ========================================================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -230,7 +311,7 @@
 <br><br>
 
 <!-- =========================================================
-     GITHUB STATS
+     GITHUB DASHBOARD
 ========================================================= -->
 
 <h2 align="center">📊 GitHub Dashboard</h2>
@@ -280,7 +361,7 @@
 <br><br>
 
 <!-- =========================================================
-     EXPERIENCE
+     EXPERIENCE & EDUCATION
 ========================================================= -->
 
 <h2 align="center">💼 Experience & Education</h2>
@@ -325,11 +406,19 @@
 
 <div align="center">
 
-### `Node.js` · `Express` · `Backend Development`
+  <code>Node.js</code>
+  •
+  <code>Express</code>
+  •
+  <code>Backend Development</code>
 
-<br>
+  <br><br>
 
-### `AI & ML` · `Advanced Flutter` · `System Design`
+  <code>AI & ML</code>
+  •
+  <code>Advanced Flutter</code>
+  •
+  <code>System Design</code>
 
 </div>
 
@@ -345,16 +434,16 @@
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&duration=3500&pause=1200&color=800020&center=true&vCenter=true&width=650&lines=Good+Things+Take+Time."
-  alt="Good Things Take Time"
-/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&duration=3500&pause=1200&color=800020&center=true&vCenter=true&width=650&lines=Good+Things+Take+Time."
+    alt="Good Things Take Time"
+  />
 
-<br><br>
+  <br><br>
 
-<strong>
-Build Code. Create Better. Achieve Freedom.
-</strong>
+  <strong>
+    Build Code. Create Better. Achieve Freedom.
+  </strong>
 
 </div>
 
@@ -362,23 +451,23 @@ Build Code. Create Better. Achieve Freedom.
 
 <div align="center">
 
-🧩 **Clean Code**
+  🧩 **Clean Code**
 
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
 
-♻️ **Reusable Components**
+  ♻️ **Reusable Components**
 
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
 
-🎨 **User-First Design**
+  🎨 **User-First Design**
 
-<br><br>
+  <br><br>
 
-📚 **Continuous Learning**
+  📚 **Continuous Learning**
 
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
 
-💡 **Creative Problem Solving**
+  💡 **Creative Problem Solving**
 
 </div>
 
@@ -408,7 +497,7 @@ Build Code. Create Better. Achieve Freedom.
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,70:800020,100:F5E6D3&height=150&section=footer&animation=twinkling"
     width="100%"
-    alt="Burgundy animated footer"
+    alt="Animated Burgundy footer"
   />
 
   <br>
@@ -418,7 +507,9 @@ Build Code. Create Better. Achieve Freedom.
   <br>
 
   <p>
-    <em>Building today what I dream about tomorrow.</em>
+    <em>
+      Building today what I dream about tomorrow.
+    </em>
   </p>
 
   <br>
