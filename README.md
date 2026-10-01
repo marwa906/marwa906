@@ -6,10 +6,10 @@
 
   <!-- 🎀 Animated Cartoon Hero -->
   <img
-    src="./programmer_cartoon.gif"
-    width="900"
-    alt="Marwa coding at her workspace"
-  />
+  src="./programmer_cartoon.gif"
+  width="900"
+  alt="Marwa coding at her workspace"
+/>
 
   <br><br>
 
